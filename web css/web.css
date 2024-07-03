@@ -17,5 +17,30 @@ img{
 }
 .program{
     background-image: url(GettyImages-689291632_optimized.jpg);
+    background-repeat: repeat-x;
+    height: 500px;
+    width: 700px;
+    margin-top: 50px;
+
+
+}
+
+h2{
+    background-color:darkslategrey;
+    margin-top: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+    color: aliceblue;
+    padding: 30px;
+    text-align: center;
+
+
+}
+*{
+    background-color: palevioletred;
     
+    background-size: cover;
 }
